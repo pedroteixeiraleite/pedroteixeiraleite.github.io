@@ -5,8 +5,8 @@ date: 2017-07-07
 categories:
   - Artigos
 description:
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/500/300?image=1003
+image: https://picsum.photos/500/300?image=1077
+image-sm: https://picsum.photos/500/300?image=1077
 ---
 **O Sentimento De Descontínuo – Um ensaio sobre a pós-modernidade**
 
