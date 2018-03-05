@@ -5,8 +5,8 @@ date: 2017-07-07
 categories:
   - Textos
 description:
-image: https://picsum.photos/2000/1200?image=1077
-image-sm: https://picsum.photos/500/300?image=1077
+image: https://picsum.photos/2000/1200?image=1073
+image-sm: https://picsum.photos/500/300?image=1073
 ---
 **Deus selvagem.**
 
